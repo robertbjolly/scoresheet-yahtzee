@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/yahtzee-scoresheet/static/css/main.4854e60f.chunk.css",
+    "main.js": "/yahtzee-scoresheet/static/js/main.25fb3746.chunk.js",
+    "main.js.map": "/yahtzee-scoresheet/static/js/main.25fb3746.chunk.js.map",
+    "runtime-main.js": "/yahtzee-scoresheet/static/js/runtime-main.942d8d32.js",
+    "runtime-main.js.map": "/yahtzee-scoresheet/static/js/runtime-main.942d8d32.js.map",
+    "static/js/2.1b4626f3.chunk.js": "/yahtzee-scoresheet/static/js/2.1b4626f3.chunk.js",
+    "static/js/2.1b4626f3.chunk.js.map": "/yahtzee-scoresheet/static/js/2.1b4626f3.chunk.js.map",
+    "static/js/3.dc682ee6.chunk.js": "/yahtzee-scoresheet/static/js/3.dc682ee6.chunk.js",
+    "static/js/3.dc682ee6.chunk.js.map": "/yahtzee-scoresheet/static/js/3.dc682ee6.chunk.js.map",
+    "index.html": "/yahtzee-scoresheet/index.html",
+    "static/css/main.4854e60f.chunk.css.map": "/yahtzee-scoresheet/static/css/main.4854e60f.chunk.css.map",
+    "static/js/2.1b4626f3.chunk.js.LICENSE.txt": "/yahtzee-scoresheet/static/js/2.1b4626f3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.942d8d32.js",
+    "static/js/2.1b4626f3.chunk.js",
+    "static/css/main.4854e60f.chunk.css",
+    "static/js/main.25fb3746.chunk.js"
+  ]
+}
